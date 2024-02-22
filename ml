@@ -1,4 +1,5 @@
 machine learning
-supervervised learning
+supervervised learning 
 unsupervised learning
 reinforcement learning
+ex-web search
