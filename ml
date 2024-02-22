@@ -1,2 +1,3 @@
 machine learning
 supervervised learning
+unsupervised learning
